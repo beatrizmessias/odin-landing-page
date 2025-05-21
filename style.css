@@ -65,7 +65,8 @@ body {
 
 .hero {
     display: flex;
-    gap: 16px;
+    justify-content: center;
+    gap: 20px;
 }
 
 .signup {
